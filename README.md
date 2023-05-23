@@ -23,5 +23,8 @@ The cultivation I opted for in this first iteration is wick hydroponics. This is
 
 
 ## replication (how to build it)
-e r
+
+### bill of materials (what you will need)
+
+### recipe (step by step, how to make it)
 
