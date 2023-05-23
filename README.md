@@ -19,7 +19,7 @@ I landed on a small coffee table or bedside table as an initial furniture. The i
 
 The cultivation I opted for in this first iteration is wick hydroponics. This is commonly described as the most simple hydroponics setup. It involves a substrate at the top (in this case, in the upper wine bottle, the base of which was cut off), and a nutriment solution at the bottom (the lower wine bottle, int this case). The two containers are connected via a wick (e.g an old textiele, or some string). The nutriment solution travels up to the plant's roots in the substrate via capillary action (for an explanation, see, for example: https://www.trees.com/gardening-and-landscaping/hydroponic-wick-systems). 
 
-[]
+![image: rough prototype](roughPrototype.JPEG)
 
 
 ## replication (how to build it)
