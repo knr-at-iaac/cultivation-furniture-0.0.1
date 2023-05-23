@@ -28,13 +28,21 @@ After much thinking about how bottles could be arranged (and thus, how large the
 
 ![image: prototyping glass arrangement](prototypingGlass.JPEG)
 
-... I opted for a model where a central bottle could be surrounded by three more, and then connected to other triangles by another three. After prototyping in thin wood with a lasercutter and seeing what it looked like on 0.25L bottles, I cut it in plywood using Fablab Barcelona's CNC 9because that's where I was. You could use any number of other materials, variations omn shape and size. 
+... I opted for a model where a central bottle could be surrounded by three more, and then connected to other triangles by another three. After prototyping in thin wood with a lasercutter and seeing what it looked like on 0.25L bottles, I cut it in plywood using Fablab Barcelona's CNC because that's what was available where I was. You could use any number of other materials, variations omn shape and size. 
 
 ![image: cnc cutting](cncCutting.gif)
 
+Somewhere in-between thinking about the triangles, I was also exploring various ways of connecting the wine bottles. 
 
+![image: connected with copper](connectedWCopper.JPEG)
 
+For example, I got enthralled with the aesthetic qualities of copper and latex tubing, so tried to build a contraption out of 18mmm copper connecctors and latex tubes. Unfortunately, this didn't work because the copper connectors didn't fit into the bottle.
 
+While it didn't work out in the end, it did allow me to see if the modular setup made sense (I tought it did). Some tape was also requiree (as always..).
+
+![image: modular setup](modularPretty.JPEG)
+
+Since the copper version didn't work, I set out to find a different solution. I had a 3D printer at home, so I went for a solution involving that. 
 
 ## replication (how to build it)
 
