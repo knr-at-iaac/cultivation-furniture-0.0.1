@@ -17,9 +17,23 @@ To begin making this idea a reality, I tried to find a minimum viable furniture.
 
 I landed on a small coffee table or bedside table as an initial furniture. The idea was to make it as modular as possible. That is why I opted for a triangle as a top / bottom shape (due to the ease of making various shape out of many triangles). The size of the triangle was chosen based on the size of wine bottles when arranged in either a very compact setup (which is not the one I opted for for the first iteration), or a more airy, simple setu, where wine bottles are only present in the center of the triangle and on the connecting sides. 
 
-The cultivation I opted for in this first iteration is wick hydroponics. This is commonly described as the most simple hydroponics setup. It involves a substrate at the top (in this case, in the upper wine bottle, the base of which was cut off), and a nutriment solution at the bottom (the lower wine bottle, int this case). The two containers are connected via a wick (e.g an old textiele, or some string). The nutriment solution travels up to the plant's roots in the substrate via capillary action (for an explanation, see, for example: https://www.trees.com/gardening-and-landscaping/hydroponic-wick-systems). 
+The cultivation I opted for in this first iteration is wick hydroponics. This is commonly described as the most simple hydroponics setup. It involves a substrate at the top (in this case, in the upper wine bottle, the base of which was cut off), and a nutriment solution at the bottom (the lower wine bottle, int this case). The two containers are connected via a wick (e.g an old textiele, or some string). The nutriment solution travels up to the plant's roots in the substrate via capillary action (for an explanation, see, for example: https://www.trees.com/gardening-and-landscaping/hydroponic-wick-systems).inital 
 
+After initial drawings and musings I visualised my initial ideas in 3D by building an extremely rough prototype:
 ![image: rough prototype](roughPrototype.JPEG)
+
+Much still had to be determined, e.g. the way the two trianglee boards should be connected.
+
+After much thinking about how bottles could be arranged (and thus, how large the triangles should be)....
+
+![image: prototyping glass arrangement](prototypingGlass.JPEG)
+
+... I opted for a model where a central bottle could be surrounded by three more, and then connected to other triangles by another three. After prototyping in thin wood with a lasercutter and seeing what it looked like on 0.25L bottles, I cut it in plywood using Fablab Barcelona's CNC 9because that's where I was. You could use any number of other materials, variations omn shape and size. 
+
+![image: cnc cutting](cncCutting.gif)
+
+
+
 
 
 ## replication (how to build it)
