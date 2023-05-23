@@ -44,6 +44,10 @@ While it didn't work out in the end, it did allow me to see if the modular setup
 
 Since the copper version didn't work, I set out to find a different solution. I had a 3D printer at home, so I went for a solution involving that. 
 
+To better understand what would work as well as the size of my wine bottle including differences in the flexibility of my PLA filament and to test my (new) 3D printer etc, I decided to print out an oil dispenser add-on for wine bottles (that I found on thingiverse). 
+
+![image: oil dispenser](oilWine.JPEG)
+
 I used two different models that I found on thingiverse: 1) and 2). I then scaled those to the size of a wine bottle.
 
 ## replication (how to build it)
