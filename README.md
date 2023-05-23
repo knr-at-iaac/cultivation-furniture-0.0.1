@@ -44,6 +44,8 @@ While it didn't work out in the end, it did allow me to see if the modular setup
 
 Since the copper version didn't work, I set out to find a different solution. I had a 3D printer at home, so I went for a solution involving that. 
 
+I used two different models that I found on thingiverse: 1) and 2). I then scaled those to the size of a wine bottle.
+
 ## replication (how to build it)
 
 ### bill of materials (what you will need)
