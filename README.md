@@ -1,6 +1,6 @@
 # Cultivation furniture v0.0.1
 
-[image: the final prototype](wideShotFINAL.JPEG)
+![image: the final prototype](wideShotFINAL.JPEG)
 
 This repo documents my first attempt at designing and building a prototype for modular furniture in which you can store water (required for life) and grow things (plants, mushrooms, microorganisms, materials) in an urban home. It fits into a broader project together with the Flowing Futures collective (see repo [add link here]).
 
