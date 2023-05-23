@@ -48,7 +48,7 @@ To better understand what would work as well as the size of my wine bottle inclu
 
 ![image: oil dispenser](oilWine.JPEG)
 
-in this image you can also see an idea that emerged in that moment, which is to use ordinary elastic bands (that you might use 
+in this image you can also see an idea that emerged in that moment, which is to use ordinary elastic bands to create a seal.
 
 I used two different models that I found on thingiverse: 1) and 2). I then scaled those to the size of a wine bottle.
 
