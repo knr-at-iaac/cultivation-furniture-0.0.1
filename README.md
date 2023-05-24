@@ -35,7 +35,7 @@ After much thinking about how bottles could be arranged (and thus, how large the
 Somewhere in-between thinking about the triangles, I was also exploring various ways of connecting the wine bottles. 
 
 ![image: connected with copper](connectedWCopper.JPEG)
-
+h
 For example, I got enthralled with the aesthetic qualities of copper and latex tubing, so tried to build a contraption out of 18mmm copper connecctors and latex tubes. Unfortunately, this didn't work because the copper connectors didn't fit into the bottle.
 
 While it didn't work out in the end, it did allow me to see if the modular setup made sense (I tought it did). Some tape was also requiree (as always..).
@@ -50,7 +50,14 @@ To better understand what would work as well as the size of my wine bottle inclu
 
 in this image you can also see an idea that emerged in that moment, which is to use ordinary elastic bands to create a seal.
 
-I used two different models that I found on thingiverse: 1) and 2). I then scaled those to the size of a wine bottle.
+With the rough method of production (3D printing with rubber bands) confirmed, I set out to create or find a model to connect the two bottles. Instead of drawing one myself, I decided to just scale two models I found on thingiverse to the size I needed: first a [simple connection](https://www.thingiverse.com/thing:5989941), and then a [T connector](https://www.thingiverse.com/thing:2204659) which allows us to add a water tube. These are originally designed for pneumatic tubes and hoses, respectively. Printed at 100% infill and with supports, they work fine with wine bottles.
+
+[image: the simple connector, with supports still on](First3dPWithsupports.JPEG)
+
+For the T connecctor, I believe due to me (or/and the default of Cura) positioning it horizontally instead of vertically, it was a bit of a pain to remove the supports that got built on the inside. 
+
+Two problems were now left to be solved. The fist is how to connect the two wooden triangles. After rejecting initial ideas of connecting them with rigid materials as well as of connecting everything to a central 3D printed part (creating a fragile single point of failure), I opted for connecting 
+
 
 ## replication (how to build it)
 
