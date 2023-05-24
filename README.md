@@ -56,7 +56,20 @@ With the rough method of production (3D printing with rubber bands) confirmed, I
 
 For the T connecctor, I believe due to me (or/and the default of Cura) positioning it horizontally instead of vertically, it was a bit of a pain to remove the supports that got built on the inside. 
 
-Two problems were now left to be solved. The first, since I wanted to make a hydroponic setup where 
+Two problems were now left to be solved. The first, since I wanted to make a hydroponic setup, whith a plant growing out of it, I needed to cut the bottle. So far, the process I used is not perfect. It involves pre-cutting with a glass cutter...
+
+![image: glass cutting](glassCUTTA.JPEG)
+
+... heating the cut.. (for example by 
+
+![image: heat the cut](burninAcetoneGlass.JPEG)
+
+
+
+
+and plunging it into ice-cold water.
+
+
 
 
 The second problem is how to connect the two wooden triangles. After rejecting initial ideas of connecting them with rigid materials as well as of connecting everything to a central 3D printed part (creating a fragile single point of failure), I opted for connecting them with string using the following knot:
@@ -64,7 +77,9 @@ The second problem is how to connect the two wooden triangles. After rejecting i
 ![image: tautline hitch](knot.PNG)
 source: https://www.netknots.com/rope_knots/tautline-hitch
 
-This allows us to increase tension continuously until we have the required balance between the three strings and the required tension overall.
+This allows us to increase tension continuously until we have the required balance between the three strings and the required tension overall. 
+
+
 
 ## replication (how to build it)
 
