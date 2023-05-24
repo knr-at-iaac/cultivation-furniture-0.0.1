@@ -52,12 +52,19 @@ in this image you can also see an idea that emerged in that moment, which is to 
 
 With the rough method of production (3D printing with rubber bands) confirmed, I set out to create or find a model to connect the two bottles. Instead of drawing one myself, I decided to just scale two models I found on thingiverse to the size I needed: first a [simple connection](https://www.thingiverse.com/thing:5989941), and then a [T connector](https://www.thingiverse.com/thing:2204659) which allows us to add a water tube. These are originally designed for pneumatic tubes and hoses, respectively. Printed at 100% infill and with supports, they work fine with wine bottles.
 
-[image: the simple connector, with supports still on](First3dPWithsupports.JPEG)
+![image: the simple connector, with supports still on](First3dPWithsupports.JPEG)
 
 For the T connecctor, I believe due to me (or/and the default of Cura) positioning it horizontally instead of vertically, it was a bit of a pain to remove the supports that got built on the inside. 
 
-Two problems were now left to be solved. The fist is how to connect the two wooden triangles. After rejecting initial ideas of connecting them with rigid materials as well as of connecting everything to a central 3D printed part (creating a fragile single point of failure), I opted for connecting 
+Two problems were now left to be solved. The first, since I wanted to make a hydroponic setup where 
 
+
+The second problem is how to connect the two wooden triangles. After rejecting initial ideas of connecting them with rigid materials as well as of connecting everything to a central 3D printed part (creating a fragile single point of failure), I opted for connecting them with string using the following knot:
+
+![image: tautline hitch](knot.PNG)
+source: https://www.netknots.com/rope_knots/tautline-hitch
+
+This allows us to increase tension continuously until we have the required balance between the three strings and the required tension overall.
 
 ## replication (how to build it)
 
