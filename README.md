@@ -60,16 +60,11 @@ Two problems were now left to be solved. The first, since I wanted to make a hyd
 
 ![image: glass cutting](glassCUTTA.JPEG)
 
-... heating the cut.. (for example by 
+... heating the cut.. (for example by dipping some string into acetone and setting it on fire. 
 
 ![image: heat the cut](burninAcetoneGlass.JPEG)
 
-
-
-
-and plunging it into ice-cold water.
-
-
+and then plunging it into ice-cold water (didn't take a picture of that). 
 
 
 The second problem is how to connect the two wooden triangles. After rejecting initial ideas of connecting them with rigid materials as well as of connecting everything to a central 3D printed part (creating a fragile single point of failure), I opted for connecting them with string using the following knot:
@@ -79,11 +74,25 @@ source: https://www.netknots.com/rope_knots/tautline-hitch
 
 This allows us to increase tension continuously until we have the required balance between the three strings and the required tension overall. 
 
+Bringing all elements together, this is the result:
+
+![image: the final prototype](FINAL.JPEG)
 
 
 ## replication (how to build it)
 
+To replicate this prototype, you can refer to the steps described above, but focusing on the useful ones. The files you need for that are all available in this repo. 
+
 ### bill of materials (what you will need)
+
+#### machines (can partly be replaced by manual labour)
+* CNC (can be replaced)
+* 3D printer (harder to replace)
+
+#### other materials
+
+* plywood or any other relatively thick material
+* 
 
 ### recipe (step by step, how to make it)
 
