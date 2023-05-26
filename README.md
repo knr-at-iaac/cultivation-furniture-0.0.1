@@ -81,7 +81,11 @@ Bringing all elements together, this is the result:
 
 ## replication (how to build it)
 
-To replicate this prototype, you can refer to the steps described above, but focusing on the useful ones. The files you need for that are all available in this repo. 
+To replicate this prototype, you can refer to the steps described above, but focusing on the useful ones. The files you need for that are all available in this repo (see the steps below).
+
+Here is an overview of the steps.
+
+1) Prepare the file for the CNC, potentially based on this file: 
 
 ### bill of materials (what you will need)
 
