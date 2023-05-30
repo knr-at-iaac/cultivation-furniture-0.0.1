@@ -88,22 +88,46 @@ To replicate this prototype, you can refer to the steps described above, but foc
 ### bill of materials (what you will need)
 
 #### machines (can partly be replaced by manual labour)
-* CNC (can be replaced)
-* 3D printer (harder to replace)
+* CNC (can be replaced by manual labour, might be a bit tedious. Alternatively a sanwich of laser cut plywoood could also work)
+* 3D printer (harder to replace, needed to cut these connector pieces: [simple connection](https://www.thingiverse.com/thing:5989941), [T connector](https://www.thingiverse.com/thing:2204659) scaled to the size of your wine bottle)
 
 #### tools
+* knife / box cutter
+* glass cutter
+* computer with a slicing software (like Ultimaker Cura)
+* a way to cool (like a fridge or a balcony in cold weather)
 
 #### other materials
-
 * plywood or any other relatively thick material
+* old wine bottles
+* string (natural fiber)
+* latex tubing (of the right size for your scaled connector pieces)
+* acetone
 
-#### optional
-
+#### optional but will make things easier
+* tape
 
 ### recipe (step by step, how to make it)
 
-Here is an overview of the steps.
+#### the triangles at the top and bottom
+1) Prepare the file for the CNC, potentially based on this file from this very repository: [BIGtriangleThoing.3dm](/BIGtriangleThoing.3dm)
+2) cut the tiangle and circles seen in the file, either by hand or with a CNC, either in plywood or some other hard and sufficiently thick material
+3) sand them
 
-1) Prepare the file for the CNC, potentially based on this [file](/BIGtriangleThoing.3dm)
+#### the connector pieces
+1) 
+
+#### the bottles
+1) find at least two old bottles 
+3) cut one of them in the following way
+   a) pre-cut the bottle at the desired height with the glass cutter 
+   b) prepare an ice bath (water with ice) 
+   c) prepare put the string in acetone
+   d) tie it around the bottle and set it on fire
+   e) quickly put the bottle in the cold water
+   f) gently nudge/break the bottle along the line
+   g) if it doesn't work, repeat the steps
+   
+####  
 
 
