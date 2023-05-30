@@ -93,10 +93,14 @@ Here is an overview of the steps.
 * CNC (can be replaced)
 * 3D printer (harder to replace)
 
+#### tools
+
 #### other materials
 
 * plywood or any other relatively thick material
-* 
+
+#### optional
+
 
 ### recipe (step by step, how to make it)
 
