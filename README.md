@@ -104,18 +104,29 @@ To replicate this prototype, you can refer to the steps described above, but foc
 * latex tubing (of the right size for your scaled connector pieces)
 * acetone
 
+for the (unfinished) hydroponics part:
+* a wick (old textile, or use the string)
+* nutriment solution
+* substrate (e.g. expanded clay)
+* hand water pump 
+
+
 #### optional but will make things easier
 * tape
 
 ### recipe (step by step, how to make it)
 
 #### the triangles at the top and bottom
-1) Prepare the file for the CNC, potentially based on this file from this very repository: [BIGtriangleThoing.3dm](/BIGtriangleThoing.3dm)
+1) Prepare the file for the CNC, potentially based on this file from this very repository: [BIGtriangleThoing.3dm](/BIGtriangleThoing.3dm). The holes for string must be added to the file or done by hand (as I did)
 2) cut the tiangle and circles seen in the file, either by hand or with a CNC, either in plywood or some other hard and sufficiently thick material
 3) sand them
 
 #### the connector pieces
-1) 
+1) download one or both of the models: [simple connection](https://www.thingiverse.com/thing:5989941), [T connector](https://www.thingiverse.com/thing:2204659) if they make sense for you. Otherwise find or make another connector model
+2) slice it (e.g. using Cura)
+3) print it (or get it printed)
+4) remove the supports
+5) optional: sand / make smoother
 
 #### the bottles
 1) find at least two old bottles 
@@ -126,8 +137,19 @@ To replicate this prototype, you can refer to the steps described above, but foc
    d) tie it around the bottle and set it on fire
    e) quickly put the bottle in the cold water
    f) gently nudge/break the bottle along the line
-   g) if it doesn't work, repeat the steps
+   g) if it doesn't work, repeat the steps or find an alternative solution. This one is not perfect..
    
-####  
+   
+####  connect the parts
+1) put one of the triangles on the floor
+2) put the first wine bottle in it (potentially adding tape or further sand the holes to adjust the snugness)
+3) put one of the connector pieces into the bottle
+4) put the other bottle on top (with the top looking down)
+5) put the other triangle on top
+6) connect the two triangles with a tautline hitch (see in the section 'what I did') 
+7) tighten those hitches as needed to achieve a nice and springy feeling. The furniture should be stable in a way akin to a young tree
+
+#### set up the hydroponics setup
+This part, I did not quite finish exploring. However, you should be able to install a wick (e.g. an old textile), and add (or keep at hand) the water pump (with a tube that fits all the way through) to periodically remove the nutriment solution. When adding the nutriment solution, you can just pour it from the top. Improvemetns and (hi-lo tech) automation could be added here. Something to explore further. 
 
 
