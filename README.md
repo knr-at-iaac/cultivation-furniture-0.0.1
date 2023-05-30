@@ -104,6 +104,6 @@ To replicate this prototype, you can refer to the steps described above, but foc
 
 Here is an overview of the steps.
 
-1) Prepare the file for the CNC, potentially based on this file:BIGtriangleThoing.3dm
+1) Prepare the file for the CNC, potentially based on this [file](BIGtriangleThoing.3dm)
 
 
